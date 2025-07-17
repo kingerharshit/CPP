@@ -1,4 +1,6 @@
+<!-- Commands to push -->
 git init
 git remote add origin https://github.com/kingerharshit/CPP.git
 git add .
 git commit -m "Add 5 files"
+git push origin master
